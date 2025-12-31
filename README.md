@@ -138,3 +138,8 @@ This project is licensed under the Apache-2.0 License.
 
 🚧 Work in progress  
 Documentation and reference components are being added incrementally.
+
+
+## Contact 
+
+Discord/Telegram - @SnapyHook
